@@ -11569,6 +11569,9 @@ footer.footer .social-link:hover {
   font-size: 2.25rem;
   box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.1);
 }
-.icon {
+.icon1 {
   width: 100px;
+}
+.icon2 {
+  width: 150px;
 }
